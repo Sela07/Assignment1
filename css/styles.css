@@ -1,0 +1,18 @@
+/* 
+   Name: Sela Caliskan
+   Student Number: 8862216
+*/
+
+body
+{
+font: normal normal normal 12px/1.5 Verdana, Arial, Helvetica, sans-serif; 
+background-color:hsla(200, 40%, 80%,0.7);
+width: 100vw;
+height: 100vh;
+}
+
+h2 {
+     
+    font-size: 2rem; 
+    color: #fc9;
+}
